@@ -136,6 +136,7 @@ h3 {
 
     .mainpara{
         text-align: center;
+        text-align-last: center;
         margin-left: 22px;
         max-width: 16em;
     }
