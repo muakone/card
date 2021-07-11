@@ -90,7 +90,7 @@ h3 {
 @media(max-width:768px) {
     .contentwrapper{
      height: 100%;  
-     width: 120%;
+     width: 200%;
      align-items: center;
      
         
@@ -102,7 +102,7 @@ h3 {
         height: 65%;
         margin-top: 180px;
         margin-bottom: 30px;
-        margin-left: 11em;
+        margin-left: 8em;
 
     }
     .right-col{
